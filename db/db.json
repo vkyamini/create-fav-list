@@ -1,0 +1,26 @@
+[
+    {
+        "name": "yamini",
+        "location": "seattle",
+        "hobby": "sleeping"
+    },
+    {
+        "name": "ASHU",
+        "location": "seattle",
+        "hobby": "reading"
+    },
+    {
+        "id": "2727c478-57c3-4b9e-81a0-1b17c0277406",
+        "name": "yamini",
+        "location": "india",
+        "hobby": "cooking",
+        "createdAt": "2023-04-27T01:11:26.226Z"
+    },
+    {
+        "id": "cd957571-2fb9-47a1-81a6-2936d3947fb6",
+        "name": "babelu",
+        "location": "lovey",
+        "hobby": "work",
+        "createdAt": "2023-04-27T01:12:15.501Z"
+    }
+]
